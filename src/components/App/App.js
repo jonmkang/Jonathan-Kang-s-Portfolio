@@ -32,15 +32,15 @@ function App() {
           component={Projectpage}/>
         <Route
           exact
-          path='/BudgetMe'
+          path='/project-page/BudgetMe'
           component={BudgetMe}/>
         <Route
           exact 
-          path='/TabletopBartender'
+          path='/project-page/TabletopBartender'
           component={TabletopBartender}/>
         <Route
           exact
-          path='/Intro-API'
+          path='/project-page/Intro-API'
           component={IntroApi}/>
         <Route
           exact
