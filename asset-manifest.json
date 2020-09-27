@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Jonathan-Kang-s-Portfolio/static/css/main.ad46cae4.chunk.css",
+    "main.js": "/Jonathan-Kang-s-Portfolio/static/js/main.818649a0.chunk.js",
+    "main.js.map": "/Jonathan-Kang-s-Portfolio/static/js/main.818649a0.chunk.js.map",
+    "runtime-main.js": "/Jonathan-Kang-s-Portfolio/static/js/runtime-main.aeb0ded6.js",
+    "runtime-main.js.map": "/Jonathan-Kang-s-Portfolio/static/js/runtime-main.aeb0ded6.js.map",
+    "static/js/2.85b6f2a4.chunk.js": "/Jonathan-Kang-s-Portfolio/static/js/2.85b6f2a4.chunk.js",
+    "static/js/2.85b6f2a4.chunk.js.map": "/Jonathan-Kang-s-Portfolio/static/js/2.85b6f2a4.chunk.js.map",
+    "index.html": "/Jonathan-Kang-s-Portfolio/index.html",
+    "precache-manifest.b4275e45f40b810c037e29d1baee8ed2.js": "/Jonathan-Kang-s-Portfolio/precache-manifest.b4275e45f40b810c037e29d1baee8ed2.js",
+    "service-worker.js": "/Jonathan-Kang-s-Portfolio/service-worker.js",
+    "static/css/main.ad46cae4.chunk.css.map": "/Jonathan-Kang-s-Portfolio/static/css/main.ad46cae4.chunk.css.map",
+    "static/js/2.85b6f2a4.chunk.js.LICENSE.txt": "/Jonathan-Kang-s-Portfolio/static/js/2.85b6f2a4.chunk.js.LICENSE.txt",
+    "static/media/budget-me-pic1.png": "/Jonathan-Kang-s-Portfolio/static/media/budget-me-pic1.ca350c37.png",
+    "static/media/budget-me-pic2.png": "/Jonathan-Kang-s-Portfolio/static/media/budget-me-pic2.de757913.png",
+    "static/media/budget-me-pic3.png": "/Jonathan-Kang-s-Portfolio/static/media/budget-me-pic3.69d4ec04.png",
+    "static/media/budget-me-pic4.png": "/Jonathan-Kang-s-Portfolio/static/media/budget-me-pic4.c7aa2bdd.png",
+    "static/media/intro-api-p1.jpg": "/Jonathan-Kang-s-Portfolio/static/media/intro-api-p1.4fa3d9a0.jpg",
+    "static/media/intro-api-p2.jpg": "/Jonathan-Kang-s-Portfolio/static/media/intro-api-p2.b4c47c1f.jpg",
+    "static/media/intro-api-p3.jpg": "/Jonathan-Kang-s-Portfolio/static/media/intro-api-p3.328ee005.jpg",
+    "static/media/photo-of-me.jpg": "/Jonathan-Kang-s-Portfolio/static/media/photo-of-me.26cbe66f.jpg",
+    "static/media/tabletop-bartender-p1.png": "/Jonathan-Kang-s-Portfolio/static/media/tabletop-bartender-p1.30cf8863.png",
+    "static/media/tabletop-bartender-p2.jpg": "/Jonathan-Kang-s-Portfolio/static/media/tabletop-bartender-p2.5e0add6e.jpg",
+    "static/media/tabletop-bartender-p3.jpg": "/Jonathan-Kang-s-Portfolio/static/media/tabletop-bartender-p3.5121fec7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aeb0ded6.js",
+    "static/js/2.85b6f2a4.chunk.js",
+    "static/css/main.ad46cae4.chunk.css",
+    "static/js/main.818649a0.chunk.js"
+  ]
+}
