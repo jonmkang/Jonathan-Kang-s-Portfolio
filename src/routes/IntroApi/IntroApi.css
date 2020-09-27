@@ -1,0 +1,146 @@
+.intro-api-page{
+    padding: 0;
+    margin: 0;
+    min-height: 90vh;
+    background-color: rgb(170, 224, 255);
+    color: black;
+}
+
+.intro-api-title{
+    padding: 1rem;
+    margin: 0;
+    font-size: 30pt;
+    color: black;
+    text-align: center;
+}
+
+.app-description{
+    display: flex;
+    flex-direction: column;
+    margin-left: 1rem auto;
+    margin-right: 1rem auto;
+    padding: 1rem;
+}
+
+.intro-app-photos{
+    width: 80vw;
+    height: 70vh;
+    border-radius: 30pt 30pt;
+    object-fit: cover;
+    object-position:50% 50%;
+}
+
+.app-img-controls{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slides-button{
+    position: relative;
+    border: none;
+    width: 50%;
+    background-color: rgb(170, 224, 255);
+    height: 200px;
+    width: 40px;
+}
+
+.slides-button:hover{
+    border: 2pt rgb(0, 64, 107) solid;
+    background: rgb(0, 64, 107);
+    border-radius: 10px;
+    color: white;
+}
+
+.intro-api-description{
+    font-size: 12pt;
+    text-indent: 10pt;
+    padding: 1rem;
+}
+
+.text-description{
+    display: flex;
+    flex-direction: column;
+}
+
+ul li {
+    list-style: none;
+    text-indent:-10pt;
+    line-height: 18pt;
+}
+
+.app-link{
+    text-align: center;
+    text-decoration: none;
+    border-radius: 25pt 25pt;
+    font-size: 14pt;
+    margin: 15pt;
+    color: black;
+    padding: 5pt;
+    border: 1pt black solid;
+}
+
+.app-link:hover{
+    background-color:rgb(62, 184, 255);
+}
+
+.app-link:active{
+    background-color: rgb(37, 106, 146);
+    color: white;
+}
+
+.app-img-actives{
+    text-align: center;
+}
+
+
+@media screen and (min-width:840px){
+    .tabletop-bartender-page{
+        padding-left: 7vw;
+        padding-right: 7vw;
+    }
+
+    .intro-app-photos{
+        margin: auto;
+        padding: 1rem;
+        width: 700px;
+        height: 640px;
+        border-radius: 30pt 30pt;
+    }
+
+    .app-description{
+        padding: 1rem;
+    }
+
+    .app-description ul{
+        padding-left: 20%;
+        padding-right: 20%;
+        line-height: 22pt;
+        font-size: 14pt;
+    }
+
+    .app-link{
+        margin: 1rem auto;
+        font-size: 18pt;
+        width: 50%;
+    }
+
+    .intro-api-description{
+        font-size: 14pt;
+    }
+}
+
+@media screen and (min-width: 920px){
+    .app-description{
+        flex-direction: row;
+    }
+
+    .intro-app-photos{
+        width: 600px;
+        height: 700px;
+    }
+
+    .app-link{
+        width: 60%;
+    }
+}

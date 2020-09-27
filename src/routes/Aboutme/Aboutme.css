@@ -1,0 +1,42 @@
+.about-me-container{
+    min-height: 90vh;
+    background-image: linear-gradient(to bottom, #500d50, #6c00af);
+}
+
+.about-me-title{
+    color: white;
+    margin: 0;
+    padding: 3%;
+    text-align: center;
+}
+
+.about-me-details{
+    margin: 0;
+    padding: 0;
+}
+
+.photo-of-me{
+    display: block;
+    margin: 0 auto;
+    border: 2pt white solid;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.about-me, .short-bio{
+    display: inline-block;
+    padding: 1rem;
+    text-indent: 2em;
+    color: white;
+}
+
+
+@media screen and (min-width: 1080px){
+    .about-me-details{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 3rem;
+    }
+}

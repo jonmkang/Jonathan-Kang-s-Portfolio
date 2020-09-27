@@ -1,0 +1,19 @@
+footer{
+    font-family: 'Proza Libre', sans-serif;
+    font-size: 10pt;
+    padding: .25rem;
+    background-color: black;
+    color: white;
+    max-height: 5vh;
+    position: relative;
+    bottom: 0;
+    text-align: center;
+}
+
+@media screen and (min-width: 720px){
+
+}
+
+@media screen and (min-width: 880px){
+}
+        
