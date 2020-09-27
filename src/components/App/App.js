@@ -20,31 +20,31 @@ function App() {
       <Switch>
         <Route
           exact
-          path='/'
+          path='http://jonmkang.github.io/Jonathan-Kang-s-Portfolio/'
           component={Homepage}/>
         <Route  
           exact
-          path='/about-me'
+          path='http://jonmkang.github.io/Jonathan-Kang-s-Portfolio/about-me'
           component={Aboutme}/>
         <Route  
           exact
-          path='/project-page'
+          path='http://jonmkang.github.io/Jonathan-Kang-s-Portfolio/project-page'
           component={Projectpage}/>
         <Route
           exact
-          path='/project-page/BudgetMe'
+          path='http://jonmkang.github.io/Jonathan-Kang-s-Portfolio/project-page/BudgetMe'
           component={BudgetMe}/>
         <Route
           exact 
-          path='/project-page/TabletopBartender'
+          path='http://jonmkang.github.io/Jonathan-Kang-s-Portfolio/project-page/TabletopBartender'
           component={TabletopBartender}/>
         <Route
           exact
-          path='/project-page/Intro-API'
+          path='http://jonmkang.github.io/Jonathan-Kang-s-Portfolio/project-page/Intro-API'
           component={IntroApi}/>
         <Route
           exact
-          path='/contact'
+          path='http://jonmkang.github.io/Jonathan-Kang-s-Portfolio/contact'
           component={ContactInfo}/>
       </Switch>
       <Footer/>

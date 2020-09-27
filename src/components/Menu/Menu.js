@@ -46,7 +46,7 @@ export default class Menu extends Component {
     render(){
         return(
             <div className="dropdown"> 
-                <Link className='home-button-link' to='/'>Jonathan's Portfolio</Link>
+                <Link className='home-button-link' to='http://jonmkang.github.io/Jonathan-Kang-s-Portfolio/'>Jonathan's Portfolio</Link>
 
                 <div className="small-menu" ref={this.setWrapperRef}>
                     {
@@ -59,10 +59,10 @@ export default class Menu extends Component {
                     {
                         this.state.hideMenu ?
                         <header id="myDropdown" className="dropdown-content">
-                            <Link onClick={()=>this.handleClick()} className="header-link" to='/'>Home</Link>
-                            <Link onClick={()=>this.handleClick()} className="header-link" to='/about-me'>About me</Link>
-                            <Link onClick={()=>this.handleClick()} className="header-link" to='/project-page'>Projects</Link>
-                            <Link onClick={()=>this.handleClick()} className="header-link" to='/contact'>Contact Info</Link>
+                            <Link onClick={()=>this.handleClick()} className="header-link" to='http://jonmkang.github.io/Jonathan-Kang-s-Portfolio/'>Home</Link>
+                            <Link onClick={()=>this.handleClick()} className="header-link" to='http://jonmkang.github.io/Jonathan-Kang-s-Portfolio/about-me'>About me</Link>
+                            <Link onClick={()=>this.handleClick()} className="header-link" to='http://jonmkang.github.io/Jonathan-Kang-s-Portfolio/project-page'>Projects</Link>
+                            <Link onClick={()=>this.handleClick()} className="header-link" to='http://jonmkang.github.io/Jonathan-Kang-s-Portfolio/contact'>Contact Info</Link>
                         </header> 
                         :
                         <></>
