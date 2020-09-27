@@ -26,10 +26,6 @@ function App() {
           exact
           path='/about-me'
           component={Aboutme}/>
-        <Route  
-          exact
-          path='/project-page'
-          component={Projectpage}/>
         <Route
           exact
           path='/project-page/BudgetMe'
@@ -42,6 +38,10 @@ function App() {
           exact
           path='/project-page/Intro-API'
           component={IntroApi}/>
+        <Route  
+          exact
+          path='/project-page'
+          component={Projectpage}/>
         <Route
           exact
           path='/contact'
