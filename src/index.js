@@ -7,7 +7,7 @@ import { BrowserRouter } from 'react-router-dom';
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter basename="/Jonathan-Kang-s-Portfolio"/>
+    <BrowserRouter basename="/Jonathan-Kang-s-Portfolio">
       <App />
     </BrowserRouter>
   </React.StrictMode>,
