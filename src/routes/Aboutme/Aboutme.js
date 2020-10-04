@@ -18,7 +18,7 @@ export default class Aboutme extends Component {
                     I am currently collaborating with the company Etherize as a front-end developer.
                     During my free time, I prefer to go rock climbing at a gym or cooking a meal for myself and my significant other. 
                     On rainy days I prefer to hole up and play a few video games, watch a movie, or read a book.  
-                    My previous occupations have dealt with hospitality, starting with being a waiter and making my way up to being head bartender at Sen Sakana in Midtown, New York.  I enjoy working with people, clients or co-workers, and thrive in team-oriented environments.</p>
+                    My previous occupations have dealt with hospitality, starting with being a waiter and making my way up to being head bartender at Sen Sakana in Midtown, New York.  I enjoy working with people and in team-oriented environments.</p>
                 </div>
             </div>
         )

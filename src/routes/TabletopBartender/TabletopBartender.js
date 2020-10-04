@@ -54,7 +54,7 @@ export default class TabletopBartender extends Component {
                     </div>
                     <div className="text-description">
                         <div>
-                            <p className="tabletop-bartender-description">This website is a cocktail creation database.  This is the front-end aspect to my full-stack project.  With a simple email and password to register, you can use my database to create a cocktail of your design with the ingredients I have stored in the database.
+                            <p className="tabletop-bartender-description">This website is a cocktail creation database.  This is the front-end aspect of my full-stack project.  With a simple email and password to register, you can use my database to create a cocktail of your design with the ingredients I have stored in the database.
                             </p>
                             <ul>Skills applied:
                                 <li>React.js</li>

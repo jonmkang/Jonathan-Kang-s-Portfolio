@@ -58,7 +58,7 @@ export default class BudgetMe extends Component {
                     <div className="text-description">
                         <div>
                             <p className="budget-me-description">This website is a budget tracking application.  
-                            This is the front-end aspect to my full-stack project.
+                            This is the front-end aspect of my full-stack project.
                             With an email and password to register, you can use my database to set a budget and store expenditures as you spend.
                             </p>
                             <ul>Skills applied:
