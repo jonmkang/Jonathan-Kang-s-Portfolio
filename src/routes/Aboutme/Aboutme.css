@@ -24,7 +24,7 @@
     height: 200px;
 }
 
-.about-me, .short-bio{
+.about-me{
     display: inline-block;
     padding: 1rem;
     text-indent: 2em;
